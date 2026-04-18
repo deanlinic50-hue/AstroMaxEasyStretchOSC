@@ -1,4 +1,4 @@
-# EasyStretch
+# AstroMaxEasyStretchOSC
 
 A PixInsight script for interactive stretching of RGB/OSC astronomical images with a live preview panel.
 
